@@ -1,0 +1,9 @@
+﻿using battleSystem;
+
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        battle.kondisi();
+    }
+}
