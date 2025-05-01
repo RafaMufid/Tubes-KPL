@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Tubes-KPL-Kel6.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Tubes-API\\Tubes-API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
