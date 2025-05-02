@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Tubes_KPL_Kel6
 {
-    public class Inventory
+    public class inventoryPlayer
     {  
         public List<string> heals = new List<string>();
         public List<string> buffs = new List<string>();

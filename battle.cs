@@ -15,7 +15,7 @@ namespace Tubes_KPL_Kel6
         public static void kondisi() {
             attribut monster = new attribut();
             attribut player = new attribut();
-            Inventory inv = new Inventory();
+            inventoryPlayer inv = new inventoryPlayer();
             State state = State.playerturn;
             string[] screen = { "playerturn", "enemyturn", "battleOver" };
             inv.addWeapon();
